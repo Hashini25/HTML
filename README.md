@@ -1,4 +1,4 @@
 Technologies: 
-# HTML
-# Css
-# Js
+HTML
+Css
+Js
